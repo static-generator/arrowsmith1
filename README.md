@@ -22,3 +22,6 @@ Cold War: M1 Abrams
 
 Modern Day: T-14 Armata
 ![Soviet Russia no.1](https://d.newsweek.com/en/full/2184734/russian-forces-reluctant-t-14-armata-tanks.jpg?w=1200&f=921ea4af21ca9d0589b97d720341d801)
+
+Fictional: Maus SPAA/ Flakpanzer VIII Maus (WW2 Wunderwaffe)
+![You can't do this](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJ5nYPElyyac8arNkAAcJBcPNiQEa34XHjw&s)
