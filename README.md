@@ -25,3 +25,9 @@ Modern Day: T-14 Armata
 
 Fictional: Maus SPAA/ Flakpanzer VIII Maus (WW2 Wunderwaffe)
 ![You can't do this](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJ5nYPElyyac8arNkAAcJBcPNiQEa34XHjw&s)
+
+
+My Favorite music:
+
+War Thunder ost: Advance Australia
+[Wart Hunder](https://www.youtube.com/watch?v=46oYJSQlko8)
