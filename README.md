@@ -35,5 +35,5 @@ Fictional: Maus SPAA/ Flakpanzer VIII Maus (WW2 Wunderwaffe)
 My Favorite music:
 
 [War Thunder OST: Advance Australia](https://www.youtube.com/watch?v=46oYJSQlko8)
-![Wart Hunder](https://wiki.warthunder.com/images/b/bc/Update1.49Wallpaper.jpg0
+![Wart Hunder](https://warthunder.com/i/opengraph-wtland.jpg)
 
