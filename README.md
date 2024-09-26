@@ -67,3 +67,22 @@ Airbus A340-300
 
 ![Sir, we don't have enough thrust!](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXK0tnBDqGH2dLHxTtBw0CqgE8ot-kabiVgyLgaPUQjd1Brtq_1xsladvkOD4sEF6csKC3JPgRi_k2ei83ZDxOk6oksCrXswQh961m9ycMqZj4U2Lf40g6r_kljtOfSbyHFsQAcQbisjU-/s1600/tumblr_mwve9kBBow1rbi4imo1_640.jpg)
 
+
+My favorite games:
+
+War Thunder
+
+![Wart Hunder](https://warthunder.com/i/opengraph-wtland.jpg)
+
+Trainz 2019
+
+![TrainZ](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553520/97600ad59e78c0e9ae8c414b8c8ac43afbf4122f/capsule_616x353.jpg?t=1723682065)
+
+Cursed Tank Simulator
+
+![Grrrr T-14](https://tr.rbxcdn.com/da2c3cc07fffcfe6422921b3f2702652/768/432/Image/Webp)
+
+Multicrew Tank Combat 4
+
+![T-14 model 2021](https://tr.rbxcdn.com/c210c3244d4c413325da0a576f62ffa1/768/432/Image/Webp)
+
