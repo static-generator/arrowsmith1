@@ -72,7 +72,7 @@ My favorite games:
 
 War Thunder
 
-![Wart Hunder](https://warthunder.com/i/opengraph-wtland.jpg)
+![Wart Hunder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dM5SpFsdsxJKQkwwel-44Gj89kv7PlEcyQ&s)
 
 Trainz 2019
 
