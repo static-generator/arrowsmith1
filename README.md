@@ -72,7 +72,7 @@ My favorite games:
 
 War Thunder
 
-![Wart Hunder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dM5SpFsdsxJKQkwwel-44Gj89kv7PlEcyQ&s)
+![Wart Hunder](https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Aircraft/1920x1080_seek_and_destroy_logo_eng_d31e85bdeb023aaed2a306befa4b3492.jpg)
 
 Trainz 2019
 
