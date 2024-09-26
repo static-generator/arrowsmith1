@@ -61,5 +61,9 @@ Modern Day: Sukhoi Su-57 "Felon"
 Favorite Commercial plane:
 
 Airbus A340-300
+
+
+
+
 ![Sir, we don't have enough thrust!](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXK0tnBDqGH2dLHxTtBw0CqgE8ot-kabiVgyLgaPUQjd1Brtq_1xsladvkOD4sEF6csKC3JPgRi_k2ei83ZDxOk6oksCrXswQh961m9ycMqZj4U2Lf40g6r_kljtOfSbyHFsQAcQbisjU-/s1600/tumblr_mwve9kBBow1rbi4imo1_640.jpg)
 
