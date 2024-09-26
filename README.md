@@ -45,6 +45,9 @@ WW1: None
 
 
 WW2: Messerschmitt BF-109
+
+
+
 ![GERMANY!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64M-gCPs0FMwl4FZNZvM_5WCVIAb9MChC4hqYFnP0bxLKzQZo5FNEGXZzE0P2AdprK18&usqp=CAU)
 
 
@@ -57,5 +60,6 @@ Modern Day: Sukhoi Su-57 "Felon"
 
 Favorite Commercial plane:
 
+Airbus A340-300
 ![Sir, we don't have enough thrust!](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXK0tnBDqGH2dLHxTtBw0CqgE8ot-kabiVgyLgaPUQjd1Brtq_1xsladvkOD4sEF6csKC3JPgRi_k2ei83ZDxOk6oksCrXswQh961m9ycMqZj4U2Lf40g6r_kljtOfSbyHFsQAcQbisjU-/s1600/tumblr_mwve9kBBow1rbi4imo1_640.jpg)
 
