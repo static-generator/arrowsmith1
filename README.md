@@ -48,7 +48,7 @@ WW2: Messerschmitt BF-109
 
 
 
-![GERMANY!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64M-gCPs0FMwl4FZNZvM_5WCVIAb9MChC4hqYFnP0bxLKzQZo5FNEGXZzE0P2AdprK18&usqp=CAU)
+![GERMANY!!](https://i.imgur.com/OrLWSYs.jpeg)
 
 
 Cold War: Sukhoi Su-27 "Flanker"
