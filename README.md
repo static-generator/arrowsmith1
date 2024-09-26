@@ -13,6 +13,7 @@ My Favorite tanks of each era:
 
 WW1: None
 
+
 WW2: KV-1
 ![Soviet Russia best](https://wiki.warthunder.com/images/thumb/3/32/ArtImage_KV-1E.png/800px-ArtImage_KV-1E.png)
 
