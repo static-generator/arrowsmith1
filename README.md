@@ -17,7 +17,7 @@ WW1: None
 WW2: KV-1
 ![Soviet Russia best](https://wiki.warthunder.com/images/thumb/3/32/ArtImage_KV-1E.png/800px-ArtImage_KV-1E.png)
 
-Cold War: M1 Abrams
+Cold War: M1 Abrams (M1A2 or M1A1 shown)
 ![AMERICA!!](https://images8.alphacoders.com/627/627297.jpg)
 
 Modern Day: T-14 Armata
