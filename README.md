@@ -9,7 +9,7 @@ McDonnell Douglas MD-11/ER
 ![11](https://t.plnspttrs.net/00530/965809_c4e9e8d1ca_280.jpg)
 
 
-My Favorite tanks of each era:
+My Favorite tanks:
 
 WW1: None
 
@@ -31,6 +31,10 @@ Fictional: Maus SPAA/ Flakpanzer VIII Maus (WW2 Wunderwaffe)
 
 ![You can't do this Germany!](https://live.staticflickr.com/65535/51262303796_c8c13bd6e2_z.jpg)
 
+
+Prototype: Object 195 (Prototype Russian MBT)
+
+![Ruzzia](https://forum-en-cdn.warthunder.com/original/2X/b/b68dc0a99a99d88bd0786f204e1c40dbd87a989b.jpeg)
 
 My Favorite music:
 
