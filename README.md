@@ -193,6 +193,13 @@ Airbus A340-300
 ![Sir, we don't have enough thrust!](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXK0tnBDqGH2dLHxTtBw0CqgE8ot-kabiVgyLgaPUQjd1Brtq_1xsladvkOD4sEF6csKC3JPgRi_k2ei83ZDxOk6oksCrXswQh961m9ycMqZj4U2Lf40g6r_kljtOfSbyHFsQAcQbisjU-/s1600/tumblr_mwve9kBBow1rbi4imo1_640.jpg)
 
 ---
+My favorite train innit.
+
+Union Pacific FEF-3 Class 4-8-4
+
+![Rizzler](https://i.ytimg.com/vi/ieJtuGrOCBA/maxresdefault.jpg)
+
+---
 
 My favorite games:
 
@@ -212,3 +219,72 @@ Multicrew Tank Combat 4
 
 ![T-14 model 2021](https://tr.rbxcdn.com/c210c3244d4c413325da0a576f62ffa1/768/432/Image/Webp)
 
+---
+
+More tanmks/ My favorite tanks of some countries cuz why not?
+
+---
+**Russia:**
+
+IFV(Infantry Fighting Vehicle): Tied between BMD-4M and T-15 Armata.
+
+BMD-4M:
+![Z](https://www.zona-militar.com/wp-content/uploads/2024/08/Diseno-sin-titulo.jpg)
+
+-100mm 2A70 smoothbore gun, fires ATGMs and HE shells.
+
+-30mm 2A72M autocannon, fires APFSDS and HE belts.
+
+-Used by the Russian airborne troops (VDV) and can be airdropped.
+
+-Modern aluminium tin.
+
+
+T-15 Armata:
+
+![ZOV](https://i0.wp.com/tanknutdave.com/wp-content/uploads/2015/05/t-15-Armata-large.jpg)
+
+T-15 Kinzhal (2nd version of the T-15):
+
+![ZOV2](https://armoredwarfare.com/sites/aw.my.com/files/u183517/kinzhal_promo_1.jpg)
+
+
+-Heavy IFV based of the Armata combat platform.
+
+-30mm 2A42mm that also fires APFSDS and HE belts.
+
+-4 9M133 missile launchers, 9M133 ATGMs are tandem HEAT and can pen ~900mm of armor.
+
+-At least 1000mm of armor frontally.
+
+-Uses Monolith ERA and Kaktus ERA.
+
+-Afganit APS.
+
+-Another version of the T-15 is the T-15 Kinzhal. Armed with a 57mm autocannon with 2 9M133 missile tubes.
+
+-Is it really still an IFV?
+
+---
+
+Light Tank: 2S25M Sprut-SDM1
+
+![RiZZ](https://lh3.googleusercontent.com/proxy/uuHNjEyEWFngYqE8WawbtDTLiyAqTFU3FyPuXi23VyxKuQMhGPNgoWz6d07Egn5yUmta0oDx-9bHspOm1d526LwE7p7MdFZMK95ebup6TI1MRk6GChJvdR6FyhWklOygApKx7ZMIFkIfmoI)
+
+-125mm 2A75 smoothbore that fires the same rounds found on the T-90, T-80 and T-72 series tanks. Future 2S25Ms will fire the 3BM69 Vakuum-1 rounds found on the T-14.
+
+-Sprut sounds like a cool name right? Sprut means Octopus in Russian.
+
+-Aluminium tin but bigger.
+
+-Also used by the VDV.
+
+---
+
+Main Battle Tank (MBT): tied between the T-14, T-90A, T-90M, T-72B3 obr. 2016, T-80BVM, and T-80B.
+
+T-72B3 obr. 2016:
+
+![ZVD](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiihnyjagngr61.jpg)
+
+-125mm 2A46M5-V2 smootbore cannon. Fires 3BM46/3BM60 APFSDS rounds and 3OF26 HE shell.
