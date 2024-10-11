@@ -269,7 +269,8 @@ T-15 Kinzhal (2nd version of the T-15):
 
 Light Tank: 2S25M Sprut-SDM1
 
-![RiZZ](https://lh3.googleusercontent.com/proxy/uuHNjEyEWFngYqE8WawbtDTLiyAqTFU3FyPuXi23VyxKuQMhGPNgoWz6d07Egn5yUmta0oDx-9bHspOm1d526LwE7p7MdFZMK95ebup6TI1MRk6GChJvdR6FyhWklOygApKx7ZMIFkIfmoI)
+![image](https://github.com/user-attachments/assets/3cada33c-cc49-437d-aafb-5c3b3d921877)
+
 
 -125mm 2A75 smoothbore that fires the same rounds found on the T-90, T-80 and T-72 series tanks. Future 2S25Ms will fire the 3BM69 Vakuum-1 rounds found on the T-14.
 
@@ -285,6 +286,29 @@ Main Battle Tank (MBT): tied between the T-14, T-90A, T-90M, T-72B3 obr. 2016, T
 
 T-72B3 obr. 2016:
 
-![ZVD](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiihnyjagngr61.jpg)
+![image](https://github.com/user-attachments/assets/6d200f90-a9b2-42aa-94af-f6ac6f1336e9)
+
 
 -125mm 2A46M5-V2 smootbore cannon. Fires 3BM46/3BM60 APFSDS rounds and 3OF26 HE shell.
+
+-Better ERA, still can't reverse.
+
+-2016 model adds more ERA protection than the older model. Relikt ERA to be specific.
+
+-Favorite T-72 model.
+
+
+
+T-90A:
+
+![image](https://github.com/user-attachments/assets/ff170f45-dee2-4bd4-8464-b22ef88989ff)
+
+
+-125mm 2A46M5-V2 and fires the same rounds as the T-72B3.
+
+-The red eyes are the Shtora-1 Electro-optical APS that counters TOWs and other ATGMs.
+
+-All Kontakt-5 ERA, no Relikt ERA.
+
+-Funny red eyes.
+
