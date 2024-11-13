@@ -10,7 +10,7 @@ McDonnell Douglas MD-11/ER
 
 ---
 
-Terms that you will see in the Favorite tanks section:
+Terms that you will in the description of the tanks:
 
 APFSDS = Armor Piercing Fin Stabilized Discarding Sabot
 
@@ -33,6 +33,8 @@ Rifled =  The inside of the gun is grooved to make the shell spin a.k.a spin sta
 Smoothbore = Allows faster rounds but doesn't make the shell spin which means it needs fins to stabilize it. Russian smoothbore cannons can fire ATGMs too.
 
 Shells: tank rounds/bullets, just a fancy term for ammo used on tanks.
+
+Depression: How much can the gun angle downwards (Russian tanks don't have very good depression)
 
 ---
 
@@ -311,4 +313,49 @@ T-90A:
 -All Kontakt-5 ERA, no Relikt ERA.
 
 -Funny red eyes.
+
+
+T-80B:
+
+![image](https://static.manakeep.com/photos/2024/03/14/3h5ryob7kq_T_80B_proud.jpg)
+
+-Upgraded version of the T-80 with better optics, armor, firepower, and mobility.
+
+-Uses the 2A46M1 smoothbore gun. Fires the 3BM46, 3BM42, 3OF26, 3BK18 and the 9M119M ATGM.
+
+-BV mod adds Kontakt-1 ERA.
+
+-Flying tank of the Soviet Union, somewhat quite expensive.
+
+
+T-80BVM:
+
+![image](https://militarywatchmagazine.com/m/articles/2021/01/24/article_600d4faab6f851_30083284.jpeg)
+
+-Modern T-80BV with the new Relikt ERA.
+
+-Basically better everything including firepower, mobility, optics, and armor.
+
+-2A46M5-V2 smoothbore gun and fires 3BM60, 3BM59, 3BM46, 3BK18M, 3OF26, and the 9M119M1 ATGM.
+
+-Top of the line tank, includs everything you need except depression.
+
+
+T-90M Proryv-3:
+
+![T-90M Arena when?](https://i.wpimg.pl/1612x971/filerepo.grupawp.pl/api/v1/display/embed/99e68035-1972-4677-8241-587eaa67ed22)
+
+-Moernized T-90A with new turret, new optics, new ammo, new autolaoder, new ERA (Relikt ERA), better armor, and better crew protection like spall liners.
+
+-2A46M5-V2 smoothbore gun and fires the 3BM59, 3BM60, 3BM46, 3BK18M, 3OF26, and the 9M119M1 ATGM.
+
+-Plans to have the Arena-M APS installed on future T-90Ms.
+
+-Breakthrough.
+
+
+T-14 Armata:
+
+
+
 
