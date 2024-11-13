@@ -356,6 +356,26 @@ T-90M Proryv-3:
 
 T-14 Armata:
 
+![Z-14](https://weaponsparade.com/wp-content/uploads/mbt-rus-T.14-ARMATA-35.jpg)
 
+-Most modern Russian MBT.
 
+-2A82-1M smoothbore gun and fires 3BM69, 3BM18M, 3OF26 and 3UBK21 ATGM.
+
+-About 1028mm of armor frontally.
+
+-Uses the 4S22 Malachite and Monolith ERA instead of the Relikt ERA.
+
+-Has APS (Afganit) which can stop rounds moving up to 1700m/s.
+
+-Unmanned turret, all the crew in an armored capsule at the front seperated from the ammo and engine.
+
+-"We'll have 100 T-14s by 2020"
+
+---
+Artillery/Self-propelled guns: tied between the 2S33 MSTA-SM3 and the 2S35 Koalitsiya-SV.
+
+2S33 MSTA-SM2:
+
+![Z arty](https://2img.net/h/ic.pics.livejournal.com/kuban_spotting/42870072/1011030/1011030_original.jpg)
 
