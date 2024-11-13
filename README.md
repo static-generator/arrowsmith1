@@ -345,7 +345,7 @@ T-90M Proryv-3:
 
 ![T-90M Arena when?](https://i.wpimg.pl/1612x971/filerepo.grupawp.pl/api/v1/display/embed/99e68035-1972-4677-8241-587eaa67ed22)
 
--Moernized T-90A with new turret, new optics, new ammo, new autolaoder, new ERA (Relikt ERA), better armor, and better crew protection like spall liners.
+-Modernized T-90A with new turret, new optics, new ammo, new autolaoder, new ERA (Relikt ERA), better armor, and better crew protection like spall liners.
 
 -2A46M5-V2 smoothbore gun and fires the 3BM59, 3BM60, 3BM46, 3BK18M, 3OF26, and the 9M119M1 ATGM.
 
