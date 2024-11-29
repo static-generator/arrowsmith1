@@ -338,7 +338,7 @@ T-80BVM:
 
 -2A46M5-V2 smoothbore gun and fires 3BM60, 3BM59, 3BM46, 3BK18M, 3OF26, and the 9M119M1 ATGM.
 
--Top of the line tank, includs everything you need except depression.
+-Top of the line tank, includes everything you need except depression.
 
 
 T-90M Proryv-3:
@@ -377,5 +377,32 @@ Artillery/Self-propelled guns: tied between the 2S33 MSTA-SM3 and the 2S35 Koali
 
 2S33 MSTA-SM2:
 
-![Z arty](https://2img.net/h/ic.pics.livejournal.com/kuban_spotting/42870072/1011030/1011030_original.jpg)
+![Z Arty](https://i.namu.wiki/i/eEJoFN0HfCEo1qPkaTgXghGq5HuO7wHW0wW4h3JL1cxtKyNJy2iScHs1pjpXNqny53Kw_bJPOsoPv_NYxRKMxQ.webp)
+
+-Modernized 2S19 Msta-S which adds a 5 second autoloader.
+
+-152.4mm 2A64 L47 howitzer and fires the 3OF26 and 3OF26-PF rounds (High Explosive)
+
+-15mm armor all around.
+
+-Don't brawl in it, it got like 10mm of armor frontally.
+
+
+2S35 Koalitsiya-SV:
+
+![New Z Arty??!?!?!](https://defence-blog.com/wp-content/uploads/2021/01/nexnsrXR0k4.jpg)
+
+-Next-gen Russian artillery system.
+
+-Built on the T-90M hull but removed all the ERA.
+
+-Future 2S35s will be mounted on the T-14 Armata hull.
+
+-152mm 2A?? gun / 155mm 2A?? gun.
+
+-Development status unknown.
+
+-Ukraine when.
+
+---
 
