@@ -46,7 +46,7 @@ WW1: None
 
 
 WW2: KV-1
-![Soviet Russia best](https://wiki.warthunder.com/images/thumb/3/32/ArtImage_KV-1E.png/800px-ArtImage_KV-1E.png)
+![Soviet Russia best](https://www.quartermastersection.com/russian/afvs/img/KV1.png)
 
 -Soviet WW2 heavy tank
 
@@ -390,7 +390,7 @@ Artillery/Self-propelled guns: tied between the 2S33 MSTA-SM3 and the 2S35 Koali
 
 2S35 Koalitsiya-SV:
 
-![New Z Arty??!?!?!](https://defence-blog.com/wp-content/uploads/2021/01/nexnsrXR0k4.jpg)
+![New Z Arty](https://armyrecognition.com/images/stories/news/2023/December/Russia_deploys_new_2S35_self-propelled_artillery_in_Ukraine_925_001.jpg)
 
 -Next-gen Russian artillery system.
 
