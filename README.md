@@ -406,3 +406,26 @@ Artillery/Self-propelled guns: tied between the 2S33 MSTA-SM3 and the 2S35 Koali
 
 ---
 
+Soviet spacecrafts cuz sigma.
+
+Buran, the Soviet space shuttle.
+
+Emblem thingy:
+![Buran emblem](https://ih1.redbubble.net/image.1505600185.9273/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg)
+
+
+Buran in orbit:
+![Zuran](https://www.fromspacewithlove.com/wp-content/uploads/2019/03/buran-energia-img-min.png)
+
+
+Buran orbiter on the Energia rocket:
+![Buran Energia!](https://ruavia.su/wp-content/uploads/2023/11/buran-energy-start-1-820x410.jpg)
+
+-Better space shuttle
+
+-Launched once then budget go away and away.
+
+-Mostly a military project of the USSR.
+
+-Buran back when Russia ZZ??????
+
